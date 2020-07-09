@@ -1,0 +1,2 @@
+# CrossFitness
+My static site 
